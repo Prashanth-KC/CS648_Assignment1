@@ -10,4 +10,4 @@
 This shows the client testimonials  
 along with their names and contact information.
 
-#### [This is an html file and can be opened by clicking here](https://github.com/Prashanth-KC/CS648_Assignment1)
+#### [This repository can be cloned by clicking here](https://github.com/Prashanth-KC/CS648_Assignment1)
